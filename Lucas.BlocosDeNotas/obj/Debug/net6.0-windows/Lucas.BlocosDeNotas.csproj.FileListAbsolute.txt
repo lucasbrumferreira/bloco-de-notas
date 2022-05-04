@@ -1,0 +1,17 @@
+C:\Git\Lucas.BlocosDeNotas\Lucas.BlocosDeNotas\bin\Debug\net6.0-windows\Lucas.BlocosDeNotas.exe
+C:\Git\Lucas.BlocosDeNotas\Lucas.BlocosDeNotas\bin\Debug\net6.0-windows\Lucas.BlocosDeNotas.deps.json
+C:\Git\Lucas.BlocosDeNotas\Lucas.BlocosDeNotas\bin\Debug\net6.0-windows\Lucas.BlocosDeNotas.runtimeconfig.json
+C:\Git\Lucas.BlocosDeNotas\Lucas.BlocosDeNotas\bin\Debug\net6.0-windows\Lucas.BlocosDeNotas.dll
+C:\Git\Lucas.BlocosDeNotas\Lucas.BlocosDeNotas\bin\Debug\net6.0-windows\Lucas.BlocosDeNotas.pdb
+C:\Git\Lucas.BlocosDeNotas\Lucas.BlocosDeNotas\obj\Debug\net6.0-windows\Lucas.BlocosDeNotas.csproj.AssemblyReference.cache
+C:\Git\Lucas.BlocosDeNotas\Lucas.BlocosDeNotas\obj\Debug\net6.0-windows\Lucas.BlocosDeNotas.Form1.resources
+C:\Git\Lucas.BlocosDeNotas\Lucas.BlocosDeNotas\obj\Debug\net6.0-windows\Lucas.BlocosDeNotas.csproj.GenerateResource.cache
+C:\Git\Lucas.BlocosDeNotas\Lucas.BlocosDeNotas\obj\Debug\net6.0-windows\Lucas.BlocosDeNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Lucas.BlocosDeNotas\Lucas.BlocosDeNotas\obj\Debug\net6.0-windows\Lucas.BlocosDeNotas.AssemblyInfoInputs.cache
+C:\Git\Lucas.BlocosDeNotas\Lucas.BlocosDeNotas\obj\Debug\net6.0-windows\Lucas.BlocosDeNotas.AssemblyInfo.cs
+C:\Git\Lucas.BlocosDeNotas\Lucas.BlocosDeNotas\obj\Debug\net6.0-windows\Lucas.BlocosDeNotas.csproj.CoreCompileInputs.cache
+C:\Git\Lucas.BlocosDeNotas\Lucas.BlocosDeNotas\obj\Debug\net6.0-windows\Lucas.BlocosDeNotas.dll
+C:\Git\Lucas.BlocosDeNotas\Lucas.BlocosDeNotas\obj\Debug\net6.0-windows\refint\Lucas.BlocosDeNotas.dll
+C:\Git\Lucas.BlocosDeNotas\Lucas.BlocosDeNotas\obj\Debug\net6.0-windows\Lucas.BlocosDeNotas.pdb
+C:\Git\Lucas.BlocosDeNotas\Lucas.BlocosDeNotas\obj\Debug\net6.0-windows\Lucas.BlocosDeNotas.genruntimeconfig.cache
+C:\Git\Lucas.BlocosDeNotas\Lucas.BlocosDeNotas\obj\Debug\net6.0-windows\ref\Lucas.BlocosDeNotas.dll
